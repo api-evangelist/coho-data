@@ -32,7 +32,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-detail: Company wound down in 2017; cohodata.com now resolves to an unrelated parked content-farm site (no developer or API surface).
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:

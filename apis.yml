@@ -35,6 +35,9 @@ description: >-
   lapsed to a third-party parked/content-farm site unrelated to the original
   company, so there is no public API surface to enrich.
 url: https://raw.githubusercontent.com/api-evangelist/coho-data/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "It is defunct: it operates no live developer portal, documentation, or API, and the cohodata.com domain has since lapsed to a third-party parked/content-farm site unrelated to the original company, so"
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
